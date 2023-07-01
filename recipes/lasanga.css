@@ -1,0 +1,126 @@
+* {
+    font-family: Arial, Helvetica, sans-serif;
+    text-align:center;
+}
+
+#main-heading {
+    font-size: 55px;
+    color: darkgoldenrod;
+}
+
+.recipe-info {
+    font-size: 28px;
+    color: rgb(194, 142, 11);
+}
+
+.base {
+    text-align: center;
+}
+
+strong {
+    color: brown;
+}
+
+#heading-2 {
+    font-size: 40px;
+    color: darkred;
+}
+
+#mak-descr {
+    font-size: 24px;
+    text-align: left;
+    color: darkgoldenrod;
+    letter-spacing: 2px;
+}
+
+#tit-ing {
+    font-size: 40px;
+    color: darkred;
+}
+
+#ingr1 {
+    font-size: 24px;
+    letter-spacing: 1px;
+    color: darkgoldenrod;
+}
+
+h3 {
+    color: darkred;
+    font-size: 28px;
+}
+
+#lil-descr {
+    font-size: 24px;
+    color: darkgoldenrod;
+}
+
+#li-of-st,
+#li-of-la {
+    font-size: 20px;
+    color: darkgoldenrod;
+}
+
+#dir-ing,
+#direc {
+    font-size: 40px;
+    color: darkred;
+}
+
+#end {
+    font-size: 55px;
+    color: rgb(148, 27, 8);
+}
+
+.instructions {
+    font-size: 24px;
+    color: darkgoldenrod;
+    letter-spacing: 1px;
+}
+
+#ingr2 {
+    font-size: 20px;
+    color: darkgoldenrod;
+}
+
+i {
+    color: brown;
+}
+
+h5 {
+    font-size: 24px;
+    color: darkred;
+}
+
+#steps p {
+    font-size: 20px;
+    color: darkgoldenrod;
+    letter-spacing: 1px;
+}
+
+#pic1 {
+    width: 400px;
+}
+
+#pic4 {
+    width: 500px;
+}
+
+#ending {
+    text-align: center;
+}
+
+#pic2 {
+    width: 600px;
+}
+
+#pic3 {
+    width: 500px;
+}
+
+#back {
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 30px;
+    background-color: darkred;
+    border-color: darkred;
+    color: goldenrod;
+}
